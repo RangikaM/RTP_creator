@@ -147,7 +147,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-import os
 
 def extract_sections(filename):
     with open(filename, 'r') as file:
